@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Background Rules
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: -1646566206, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: -1646566206, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: -326788698, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: -1170153206, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 971982231, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 643616819, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 1889454685, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 35357180, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 992864215, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 1638547965, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: -114191127, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 1739549717, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 1590025582, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: -927713253, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 98251718, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: -1576920105, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    - {fileID: 419191515, guid: 9d43fd3ff1a577446a74653f901c5074, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.68
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 4
+    m_Neighbors: 
+    m_NeighborPositions:
+    - {x: -1, y: 1, z: 0}
+    - {x: 0, y: 1, z: 0}
+    - {x: 1, y: 1, z: 0}
+    - {x: -1, y: 0, z: 0}
+    - {x: 1, y: 0, z: 0}
+    - {x: -1, y: -1, z: 0}
+    - {x: 0, y: -1, z: 0}
+    - {x: 1, y: -1, z: 0}
+    m_RuleTransform: 0
